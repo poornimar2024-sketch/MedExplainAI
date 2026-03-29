@@ -2,12 +2,10 @@
 
 This project detects pneumonia from chest X-ray images using AI.
 
-## Files
-- app.py → main app
-- model.py → model
-- predict.py → prediction
-- gradcam.py → visualization
+👉 To run this project:
 
-## How to run
+1. Install requirements:
 pip install -r requirements.txt
-python app.py
+
+2. Run the app:
+streamlit run app.py
