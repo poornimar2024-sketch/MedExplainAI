@@ -1,6 +1,7 @@
 # MedExplainAI
 
 This project detects pneumonia from chest X-ray images using AI.
+It is a Streamlit-based web app and should be run locally.
 
 👉 To run this project:
 
